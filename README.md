@@ -120,7 +120,10 @@ Based on the findings, the project proposes:
 
 ## Authors
 Hackathon Submission Team  
-(Details as per registration)
+1.Leelajai Krishna N
+2.Adithya D J
+3.Dishanth P I
+4.Pranav L P
 
 ---
 
